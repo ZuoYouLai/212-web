@@ -13,13 +13,13 @@ const common = {
 const config = {
     development: {
        // api: 'http://ljia.xyz/'
-        api:'http://132.232.123.169/v0/',
-        redit:'http://132.232.123.169/preview.html?id=',
+        api:'http://212.64.92.109/v0/',
+        redit:'http://212.64.92.109/preview.html?id=',
     },
     production: {
       //  api: 'http://ljia.xyz/'
-        api:'http://132.232.123.169/v0/',
-        redit:'http://132.232.123.169/preview.html?id=',
+        api:'http://212.64.92.109/v0/',
+        redit:'http://212.64.92.109/preview.html?id=',
     },
 }
 
